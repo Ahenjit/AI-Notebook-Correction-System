@@ -99,7 +99,9 @@ Future Solution:
 
 Automated Training Pipelines: Create automated pipelines for model training and updates to reduce manual effort and streamline the setup process.
 
-Pre-trained Models: Utilize pre-trained models that can be fine-tuned with minimal data, reducing the need for extensive training. The precesion of the Suction arm can be increased by a better physical setup to minimize time taken for it to flip pages.
+Pre-trained Models: Utilize pre-trained models that can be fine-tuned with minimal data, reducing the need for extensive training.
+
+Better Physical Setup if the model: The precesion of the Suction arm can be increased by a better physical setup to minimize time taken for it to flip pages.
 
 7. User Acceptance
 
