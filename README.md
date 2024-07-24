@@ -32,6 +32,10 @@ Designed for easy integration with existing educational platforms and grading sy
 Features an intuitive interface for teachers to review, adjust, and finalize grades, ensuring accuracy and allowing for manual intervention when needed.
 It also uses Suction Arm to flip the pages and perform its functions effectively.
 
+6. Suction Arm for Page Flipping:
+
+Utilizes a suction arm to flip pages, allowing the system to process entire notebooks efficiently and effectively.
+
 ## Program and Working
 
 ![Logo](https://elements-cover-images-0.imgix.net/23b2adf8-ef4f-43cc-88c8-20c36a5a9680?auto=compress%2Cformat&w=1170&fit=max&s=3cbf8d178b88a7e37942ac1aba403cb1)
@@ -93,7 +97,9 @@ Collaborative Framework: Work with educators to gather feedback and continuously
 
 6. Initial Setup and Training
 
-Current Challenge: Developing and training the AI model requires significant resources and time. The Suction arm has the ability to flip the pages and check the notebooks better, however, it still takes time. It may even lead to tear of pages.
+Current Challenge:
+
+Developing and training the AI model requires significant resources and time.
 
 Future Solution:
 
@@ -101,11 +107,25 @@ Automated Training Pipelines: Create automated pipelines for model training and 
 
 Pre-trained Models: Utilize pre-trained models that can be fine-tuned with minimal data, reducing the need for extensive training.
 
-Better Physical Setup if the model: The precesion of the Suction arm can be increased by a better physical setup to minimize time taken for it to flip pages.
+7. Suction Arm Precision and Reliability
+   
+Current Challenge:
 
-7. User Acceptance
+The suction arm, while efficient, may lead to the tearing of pages and is prone to wear and tear, affecting its precision and reliability over time.
 
-Current Challenge: Teachers and students may be resistant to adopting new technologies.
+Future Solution:
+
+Enhanced Suction Arm Design: Improve the physical design of the suction arm to increase its precision and minimize the risk of tearing pages.
+
+Regular Maintenance Protocols: Develop protocols for regular maintenance and calibration to ensure the suction arm remains in optimal working condition.
+
+Backup Mechanisms: Implement backup mechanisms such as secondary arms or manual override options to handle failures smoothly.
+
+8. User Acceptance
+   
+Current Challenge:
+
+Teachers and students may be resistant to adopting new technologies.
 
 Future Solution:
 
@@ -113,9 +133,11 @@ User Training and Support: Provide comprehensive training materials and support 
 
 Feedback Mechanism: Establish a feedback mechanism to gather user input and make iterative improvements based on real-world usage.
 
-8. Technical Limitations
+9. Technical Limitations
+    
+Current Challenge:
 
-Current Challenge: Factors like image quality, lighting conditions, and the physical state of notebooks can impact performance.
+Factors like image quality, lighting conditions, and the physical state of notebooks can impact performance.
 
 Future Solution:
 
@@ -123,4 +145,6 @@ Robust Image Preprocessing: Implement advanced image preprocessing techniques to
 
 Quality Assurance Protocols: Develop protocols for quality assurance and error handling to address issues related to image quality and notebook conditions.
 
+##Conclusion
 
+The AI Notebook Correction System represents a significant leap forward in educational technology, aiming to streamline and enhance the grading process. By addressing current limitations and continuously improving the system, we strive to make this technology a reliable and integral part of modern education.
