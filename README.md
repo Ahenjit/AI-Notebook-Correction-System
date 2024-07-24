@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-The AI Notebook Correction System aims to revolutionize the process of grading and providing feedback on student notebooks. Traditionally, the manual review of handwritten content is both time-consuming and prone to errors. Our system utilizes advanced Optical Character Recognition (OCR) technology and machine learning models to automate and accelerate this process, providing a more efficient and accurate grading solution.
+The AI Notebook Correction System aims to revolutionize the process of grading and providing feedback on student notebooks. Traditionally, the manual review of handwritten content is both time-consuming and prone to errors. Our system utilizes advanced Optical Character Recognition (OCR) technology, machine learning models and Suction arm to flip pages, automate and accelerate this process, providing a more efficient and accurate grading solution.
 
 ## Solution
 
@@ -30,6 +30,8 @@ Designed for easy integration with existing educational platforms and grading sy
 5. User-Friendly Interface:
 
 Features an intuitive interface for teachers to review, adjust, and finalize grades, ensuring accuracy and allowing for manual intervention when needed.
+It also uses Suction Arm to flip the pages and perform its functions effectively.
+
 ## Program and Working
 
 ![Logo](https://elements-cover-images-0.imgix.net/23b2adf8-ef4f-43cc-88c8-20c36a5a9680?auto=compress%2Cformat&w=1170&fit=max&s=3cbf8d178b88a7e37942ac1aba403cb1)
