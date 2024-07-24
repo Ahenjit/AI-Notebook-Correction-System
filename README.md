@@ -88,12 +88,12 @@ Collaborative Framework: Work with educators to gather feedback and continuously
 
 6. Initial Setup and Training
 
-Current Challenge: Developing and training the AI model requires significant time and resources.
+Current Challenge: Developing and training the AI model requires significant resources and time. The Suction arm has the ability to flip the pages and check the notebooks better, however, it still takes time. It may even lead to tear of pages.
 
 Future Solution:
 
 Automated Training Pipelines: Create automated pipelines for model training and updates to reduce manual effort and streamline the setup process.
-Pre-trained Models: Utilize pre-trained models that can be fine-tuned with minimal data, reducing the need for extensive training.
+Pre-trained Models: Utilize pre-trained models that can be fine-tuned with minimal data, reducing the need for extensive training. The precesion of the Suction arm can be increased by a better physical setup to minimize time taken for it to flip pages.
 
 7. User Acceptance
 
